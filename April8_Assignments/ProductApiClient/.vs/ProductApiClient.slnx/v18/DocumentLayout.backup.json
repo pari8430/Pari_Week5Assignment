@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A40034-B700-4574-B250-31DFE224A7EE}|ProductApiClient\\ProductApiClient.csproj|c:\\users\\pari9\\desktop\\capgemini\\day 65\\productapiclient\\productapiclient\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61A40034-B700-4574-B250-31DFE224A7EE}|ProductApiClient\\ProductApiClient.csproj|solutionrelative:productapiclient\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A40034-B700-4574-B250-31DFE224A7EE}|ProductApiClient\\ProductApiClient.csproj|c:\\users\\pari9\\desktop\\capgemini\\day 65\\productapiclient\\productapiclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61A40034-B700-4574-B250-31DFE224A7EE}|ProductApiClient\\ProductApiClient.csproj|solutionrelative:productapiclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A40034-B700-4574-B250-31DFE224A7EE}|ProductApiClient\\ProductApiClient.csproj|c:\\users\\pari9\\desktop\\capgemini\\day 65\\productapiclient\\productapiclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61A40034-B700-4574-B250-31DFE224A7EE}|ProductApiClient\\ProductApiClient.csproj|solutionrelative:productapiclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A40034-B700-4574-B250-31DFE224A7EE}|ProductApiClient\\ProductApiClient.csproj|c:\\users\\pari9\\desktop\\capgemini\\day 65\\productapiclient\\productapiclient\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A40034-B700-4574-B250-31DFE224A7EE}|ProductApiClient\\ProductApiClient.csproj|solutionrelative:productapiclient\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\ProductApiClient\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductApiClient\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\ProductApiClient\\Views\\Products\\Index.cshtml*",
+              "RelativeToolTip": "ProductApiClient\\Views\\Products\\Index.cshtml*",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:39:42.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\ProductApiClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductApiClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\ProductApiClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductApiClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:32:42.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\ProductApiClient\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApiClient\\appsettings.json",
+              "ToolTip": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\ProductApiClient\\appsettings.json",
+              "RelativeToolTip": "ProductApiClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T04:22:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\ProductApiClient\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductApiClient\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\pari9\\Desktop\\Capgemini\\Day 65\\ProductApiClient\\ProductApiClient\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductApiClient\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:36:22.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

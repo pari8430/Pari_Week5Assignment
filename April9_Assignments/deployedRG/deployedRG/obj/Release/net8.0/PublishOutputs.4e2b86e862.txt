@@ -1,0 +1,7 @@
+C:\Users\pari9\Desktop\Capgemini\Day 66\deployedRG\deployedRG\obj\Release\net8.0\PubTmp\Out\deployedRG.exe
+C:\Users\pari9\Desktop\Capgemini\Day 66\deployedRG\deployedRG\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\pari9\Desktop\Capgemini\Day 66\deployedRG\deployedRG\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\pari9\Desktop\Capgemini\Day 66\deployedRG\deployedRG\obj\Release\net8.0\PubTmp\Out\deployedRG.dll
+C:\Users\pari9\Desktop\Capgemini\Day 66\deployedRG\deployedRG\obj\Release\net8.0\PubTmp\Out\deployedRG.deps.json
+C:\Users\pari9\Desktop\Capgemini\Day 66\deployedRG\deployedRG\obj\Release\net8.0\PubTmp\Out\deployedRG.runtimeconfig.json
+C:\Users\pari9\Desktop\Capgemini\Day 66\deployedRG\deployedRG\obj\Release\net8.0\PubTmp\Out\deployedRG.pdb
